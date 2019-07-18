@@ -1,0 +1,39 @@
+#space {
+	width:50%;
+}
+
+.color{
+	color:#C0C0C0;
+}
+.bcolor{
+	color:white;
+}
+#header {
+	background-image:url(img2.jpg);
+	background-size:cover;
+
+}
+#foot {
+	background-color: #585858;
+}
+.wid{
+	background-color: #F5F5F5;
+	margin-top:100px; 
+	
+}
+.ttt{
+	margin-top: 90px;
+}
+.topy{
+	margin-top: 100px;
+
+}
+.cent{
+	text-align: center;
+}
+#spn {
+	color:#9BC2CF;
+}
+.marg{
+	margin-top:40px;
+}
